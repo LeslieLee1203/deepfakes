@@ -25,6 +25,9 @@
 ## DeepFaceLab 預處理
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab_preprocess.ipynb
 
+## DeepFaceLab Workspace
+- https://github.com/dream80/DFLWorkspace
+
 ## DeepFaceLab 
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab.ipynb
 
