@@ -2,6 +2,7 @@
 
 ## Colab
 - http://colab.research.google.com/
+- https://colab.research.google.com/drive/1T1fKgllrhv9CVsxJPpxF-hptSib-Xw3K?usp=sharing
 
 ## TensorFlow  Playground
 - https://playground.tensorflow.org/
