@@ -15,6 +15,9 @@
 ## 對抗生成網路 (GAN)
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/GAN.ipynb
 
+## CycleGAN 
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/CycleGAN.ipynb
+
 ## 運用OpenCV 換臉
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/face_swap_with_opencv.ipynb
 
