@@ -7,6 +7,8 @@
 - https://playground.tensorflow.org/
 
 ## 深度學習
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deep_learning.ipynb
+
 
 ## 自編碼器(Autoencoder)
 
