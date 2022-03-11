@@ -2,6 +2,7 @@
 
 ## Colab
 - http://colab.research.google.com/
+- https://colab.research.google.com/drive/1T1fKgllrhv9CVsxJPpxF-hptSib-Xw3K?usp=sharing
 
 ## TensorFlow  Playground
 - https://playground.tensorflow.org/
@@ -23,6 +24,9 @@
 
 ## DeepFaceLab 預處理
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab_preprocess.ipynb
+
+## DeepFaceLab Workspace
+- https://github.com/dream80/DFLWorkspace
 
 ## DeepFaceLab 
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab.ipynb
