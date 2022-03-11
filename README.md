@@ -25,6 +25,9 @@
 ## DeepFaceLab 預處理
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab_preprocess.ipynb
 
+## 臉部校正範例
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/face_alignment.ipynb
+
 ## DeepFaceLab Workspace
 - https://github.com/dream80/DFLWorkspace
 
