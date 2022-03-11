@@ -28,8 +28,8 @@
 ## DeepFaceLab Workspace
 - https://github.com/dream80/DFLWorkspace
 
-## DeepFaceLab 
-- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab.ipynb
+## DeepFaceLab 訓練
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab_training.ipynb
 
 ## DeepFaceLab 合成
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab_merge.ipynb
