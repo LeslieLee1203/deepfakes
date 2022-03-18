@@ -39,3 +39,6 @@
 
 ## 讓子彈飛
 - https://drive.google.com/file/d/1atZyeuKrTCsc5hxnSxeOOQhtIHdair5B/view?usp=sharing
+
+## Avatrify
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/avatarify_python.ipynb
