@@ -43,5 +43,8 @@
 ## DeepFaceLab 替換新影片
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab_replacement.ipynb
 
+## DeepFaceLab 套用 XSeg
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab_xseg_apply.ipynb
+
 ## Avatrify
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/avatarify_python.ipynb
