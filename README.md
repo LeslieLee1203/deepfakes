@@ -57,3 +57,9 @@
 
 ## 偵測DeepFakes 影片 - 運用CNN 辨識DeepFakes 圖片
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_cnn.ipynb
+
+## 偵測DeepFakes 影片 - 取得LSTM 模型需要的CNN 特徵
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_lstm_features.ipynb
+
+## 偵測DeepFakes 影片 - 建立 LSTM 模型
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_lstm_cnn.ipynb
