@@ -69,3 +69,7 @@
 
 ## 偵測DeepFakes 影片 - 建立 LSTM 模型
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_lstm_cnn.ipynb
+
+
+## 偵測DeepFakes 影片 - 預測deepfakes
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_lstm_cnn_newvideo.ipynb
