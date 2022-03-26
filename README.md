@@ -49,8 +49,27 @@
 ## Avatrify
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/avatarify_python.ipynb
 
+## CNN
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/cnn.ipynb
+
 ## 偵測DeepFakes 影片 - 預處理
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_preprocess.ipynb
 
 ## 偵測DeepFakes 影片 - 運用CNN 辨識DeepFakes 圖片
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_cnn.ipynb
+
+## 臉部識別
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/face_recognition.ipynb
+
+## LSTM
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/lstm.ipynb
+
+## 偵測DeepFakes 影片 - 取得LSTM 模型需要的CNN 特徵
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_lstm_features.ipynb
+
+## 偵測DeepFakes 影片 - 建立 LSTM 模型
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_lstm_cnn.ipynb
+
+
+## 偵測DeepFakes 影片 - 預測deepfakes
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_lstm_cnn_newvideo.ipynb
