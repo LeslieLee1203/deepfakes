@@ -39,3 +39,18 @@
 
 ## 讓子彈飛
 - https://drive.google.com/file/d/1atZyeuKrTCsc5hxnSxeOOQhtIHdair5B/view?usp=sharing
+
+## DeepFaceLab 替換新影片
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab_replacement.ipynb
+
+## DeepFaceLab 套用 XSeg
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/deepfacelab_xseg_apply.ipynb
+
+## Avatrify
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/avatarify_python.ipynb
+
+## 偵測DeepFakes 影片 - 預處理
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_preprocess.ipynb
+
+## 偵測DeepFakes 影片 - 運用CNN 辨識DeepFakes 圖片
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_cnn.ipynb
