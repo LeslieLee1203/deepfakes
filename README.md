@@ -49,5 +49,8 @@
 ## Avatrify
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/avatarify_python.ipynb
 
-## 運用CNN 辨識DeepFakes 圖片
+## 偵測DeepFakes 影片 - 預處理
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_preprocess.ipynb
+
+## 偵測DeepFakes 影片 - 運用CNN 辨識DeepFakes 圖片
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_cnn.ipynb
