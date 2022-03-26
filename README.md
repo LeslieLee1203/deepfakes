@@ -58,6 +58,9 @@
 ## 偵測DeepFakes 影片 - 運用CNN 辨識DeepFakes 圖片
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/df_detection_cnn.ipynb
 
+## 臉部識別
+- https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/face_recognition.ipynb
+
 ## LSTM
 - https://colab.research.google.com/github/ywchiu/deepfakes/blob/master/lstm.ipynb
 
